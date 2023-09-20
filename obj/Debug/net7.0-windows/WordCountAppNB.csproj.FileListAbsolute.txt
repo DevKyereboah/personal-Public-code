@@ -1,0 +1,17 @@
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\bin\Debug\net7.0-windows\WordCountAppNB.exe
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\bin\Debug\net7.0-windows\WordCountAppNB.deps.json
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\bin\Debug\net7.0-windows\WordCountAppNB.runtimeconfig.json
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\bin\Debug\net7.0-windows\WordCountAppNB.dll
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\bin\Debug\net7.0-windows\WordCountAppNB.pdb
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.csproj.AssemblyReference.cache
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.Form1.resources
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.csproj.GenerateResource.cache
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.AssemblyInfoInputs.cache
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.AssemblyInfo.cs
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.csproj.CoreCompileInputs.cache
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.dll
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\refint\WordCountAppNB.dll
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.pdb
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\WordCountAppNB.genruntimeconfig.cache
+C:\Users\SarahOwusu\source\repos\WordCountAppNB\obj\Debug\net7.0-windows\ref\WordCountAppNB.dll
